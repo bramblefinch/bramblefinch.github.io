@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Calluna";
+    src: url("Calluna-Regular.otf");
+    }
+
+body {
+    font-family: 'Calluna', sans-serif;
+    color: hsla(0, 60%, 50%, 1);
+    background-color: hsla(25, 50%, 95%, 1);
+    font-feature-settings: "dlig";
+}
